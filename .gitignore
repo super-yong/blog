@@ -42,5 +42,4 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
-#ignore application.conf
-*.conf   
+  
